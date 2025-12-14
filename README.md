@@ -1,4 +1,4 @@
-# SQL_Assignment_Project_Hospital_Data_Analysis
+# Hospital_Data_Analysis_using_SQL
 
 In this assignment, I extracted key insights from the dataset using SQL queries, such as:  
 ✅ Total patients and average doctors per hospital 
